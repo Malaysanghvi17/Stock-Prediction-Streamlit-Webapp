@@ -1,0 +1,17 @@
+cookie:
+  expiry_days: 5
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    bises:
+      email: bises@gmail.com
+      name: bises
+      password: $2b$12$eaJBp21IcuUt0RpUce2JtuGe7lUkck1o6ZLtSTH0Yne3xwP6oJrL.
+    malay:
+      email: malaysanghvi2004@gmail.com
+      name: malay
+      password: $2b$12$EHiVpE0EWn77ftmgNZJjr.5Dmt1LKhfBCjTsJ9pIYenqDu..8mIFq
+preauthorized:
+  emails:
+  - melsby@gmail.com
